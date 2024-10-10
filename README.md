@@ -1,1 +1,2 @@
-man cant code but can if have to iq is 9
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Raf128&langs_count=5&theme=tokyonight)]()
+
